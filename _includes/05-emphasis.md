@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Una de las cosas que **más adoro** es **escuchar música**. Encuentro en la música una *compañera* perfecta **para cualquier situación**.El **surf** es algo que **he redescubierto este verano** y también **me encanta**. **No** ha sido un **verano estupendo** digamos, he estado trabajando en una **situación caótica y atípica** como la que estamos viviendo ahora y el **surf** me ha **ayudado** a **desconectarme** de todo el trabajo.
